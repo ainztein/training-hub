@@ -1,4 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+US+Modern:wght@100..400&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 .test {
-  color;
-  background-color;
+  color: purple;
+  background-color: white;
+  font-family: "Roboto", sans-serif;
+  font-size: ;
+  font-weight: ;
 }
