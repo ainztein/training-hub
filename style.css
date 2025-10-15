@@ -1,8 +1,51 @@
-@import url('https://fonts.googleapis.com/css2?family=Playwrite+US+Modern:wght@100..400&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
-.test {
-  color: purple;
-  background-color: white;
-  font-family: "Roboto", sans-serif;
-  font-size: 48px;
-  font-weight: ;
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Playwrite+US+Modern:wght@100..400&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+/* BODY */
+body {
+  /* FONT AND TEXT */
+  font-family: "Playwrite US Modern", cursive;
+    font-size: 18px;
+  line-height: 1.6;
+  color: #FFDEDE;
+  
+  /* LAYOUT AND SPACING */
+  margin: 0; 
+    padding: 20px;
+  min-height: 100vh;
+  /* BACKGROUND */
+  background-color: #000000;
+  /* SMOOTH SCROLLING */
+  scroll-behavior: smooth;
+}
+
+/* HEADER */
+header {
+  
+}
+header h1 {
+  
+}
+header nav {
+  
+}
+header nav ul {
+  
+}
+/* MAIN */
+main {
+  
+}
+main p {
+  
+}
+main h2 {
+  
+}
+main ul {
+}
+main ul li {
+  
+}
+/* FOOTER */
+footer {
+  
 }
